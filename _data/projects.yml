@@ -1,11 +1,11 @@
 # Project template
 - layout: left
-  name: Ajou University - Suwon, Korea
-  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  name: Ajou University 
+  link: Suwon, Korea
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   # quote: >
     # Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    **M.S.** Computer science 2018.09 ~ 2020.08
+    **M.S.** Computer science   2018.09 ~ 2020.08
     
-    **B.S.** Digital Media 2014.03 ~ 2018.08
+    **B.S.**  Digital Media   2014.03 ~ 2018.08

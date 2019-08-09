@@ -4,10 +4,10 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: YoungBin, KIM
-title: AI 
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+title: AI Researcher
+email: dudqls1994@ajou.ac.kr
+phone: 01086389316
+
 
 # Social links
 # twitter_username: jekyllrb

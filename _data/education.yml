@@ -5,7 +5,5 @@
   
   description: | # this will include new lines to allow paragraphs
     - C/C++ (OpenCV)
-    
     - Python (Pytorch)
-    
     - JAVA (Spring)

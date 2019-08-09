@@ -26,8 +26,11 @@ linkedin_username: https://www.linkedin.com/in/영빈-김-942886137/
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/yb2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a student of graduate school of Ajou University and a member of [CVPR Lab](https://sites.google.com/site/haepaly/Home).   Please contact me for the detailed information. 
-  My recent research interests are in computer vision and deep learning. In particular, I am interested in Quantize Neural Network and model compression.
+  I am a student of graduate school of Ajou University and a member of [CVPR Lab](https://sites.google.com/site/haepaly/Home).   
+  Please contact me for the detailed information. 
+  My recent research interests are in computer vision and deep learning. 
+  In particular, I am interested in Quantize Neural Network and model compression.
+  
     - Computer Vision & Deep Learning
     - Quantize Neural Network 
     - Binary Neural Network

@@ -8,7 +8,7 @@
   description: | # this will include new lines to allow paragraphs
     **딥러닝 검출기 성능향상을 위한 GAN기반 Domain Adaptation**
     
-    김영빈, 나재민, 조상흠, 황원준
+    - 김영빈, 나재민, 조상흠, 황원준
     
-    제 31회 영상처리 및 이해에 관한 워크샵 (IPIU), Feb. 2019 **(* 우수논문상 동상)**
+      제 31회 영상처리 및 이해에 관한 워크샵 (IPIU), Feb. 2019 **(* 우수논문상 동상)**
     

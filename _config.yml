@@ -4,19 +4,19 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: YoungBin, KIM
-title: AI Researcher
+title: AI Research
 email: dudqls1994@ajou.ac.kr
 phone: 01086389316
 
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  https://github.com/dudqls1994
+github_username:  dudqls1994
 # dribbble_username: jekyll
-facebook_username: https://www.facebook.com/profile.php?id=100003759608148
+facebook_username: profile.php?id=100003759608148
 # flickr_username: jekyll
-instagram_username: https://www.instagram.com/duddbs2009/
-linkedin_username: https://www.linkedin.com/in/영빈-김-942886137/
+instagram_username: duddbs2009/
+linkedin_username: in/영빈-김-942886137/
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll

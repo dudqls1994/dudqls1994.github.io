@@ -1,0 +1,15 @@
+# Project template
+- layout: left
+  name: Conference 
+  link: 
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
+    # Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    **논문제목**
+    저자
+    컨퍼런스 정보
+    
+    
+    
+    **B.S.**  Digital Media    2014.03 ~ 2018.08

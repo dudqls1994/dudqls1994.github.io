@@ -6,15 +6,11 @@
   # quote: >
     # Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    **[딥러닝 검출기 성능향상을 위한 GAN기반 Domain Adaptation]** 제 31회 영상처리 및 이해에 관한 워크샵 (IPIU), Feb. 2019 **(* 우수논문상 동상)**
+    **[딥러닝 검출기 성능향상을 위한 GAN기반 Domain Adaptation]** **김영빈**, 나재민, 조상흠, 황원준
     
-    **김영빈**, 나재민, 조상흠, 황원준
-    
+    제 31회 영상처리 및 이해에 관한 워크샵 (IPIU), Feb. 2019 
     
      
-    **Real Full Binary Neural Network for Image Classification and Object Detection**  The 5th Asian Conference on Pattern Recognition (ACPR), Nov. 2019
+    **Real Full Binary Neural Network for Image Classification and Object Detection**  **YoungBin Kim**, Wonjun Hwang
     
-    **YoungBin Kim**, Wonjun Hwang
-    
- 
-    
+    The 5th Asian Conference on Pattern Recognition (ACPR), Nov. 2019

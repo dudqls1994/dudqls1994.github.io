@@ -1,10 +1,16 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Project
+  
+  # job_title: Job title
+  # dates: Date Range (eg. November 2016 - present)
+  # quote: >
+  #  Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+   **"Development of technology for detecting specific text and logo areas in images"**, **Samsung Electronics**
+   
+   2019.03~2019.12
+   
+    **"Development of automatic labeling technology for road image data"**, **KISTI**
+   
+   2018.05~2018.10

@@ -26,6 +26,10 @@
       
       {%- if site.data.project.size > 0 -%}
         {%- include project.html -%}
+      {%- endif -%}   
+      
+      {%- if site.data.award.size > 0 -%}
+        {%- include award.html -%}
       {%- endif -%}
 
       {%- if site.more_content -%}
